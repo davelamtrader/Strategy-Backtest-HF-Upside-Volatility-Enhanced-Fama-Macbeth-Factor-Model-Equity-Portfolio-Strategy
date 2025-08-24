@@ -1,0 +1,2 @@
+# Strategy-Backtest-HF-Upside-Volatility-Enhanced-Fama-Macbeth-Factor-Model-Equity-Portfolio-Strategy
+This repository presents a trading strategy that decomposes high-frequency volatility to identify trading signals. The strategy leverages the concept of separating total realized volatility into upside and downside components, and aims to capture market inefficiencies by analyzing the proportion of upside volatility.
